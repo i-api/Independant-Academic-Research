@@ -29,8 +29,8 @@ I will be doing independant academic research on the mathematical basis for Fina
 - 
 
 
-## Black–Scholes equation
-- The Black–Scholes equation is the partial differential equation that describes the price of an option over time:
+## Black–Scholes equation:
+The Black–Scholes equation is the partial differential equation that describes the price of an option over time:
 $$V = S_0 N(d_1) - K e^{-rT} N(d_2)$$
 Where:
 V is the option price
@@ -43,8 +43,8 @@ r is the risk-free interest rate
 T is the time to expiration
 
 
-- ## Black–Scholes formula
-- The Black–Scholes formula is the mathematical formula that describes the price of a European call options and put options:
+## Black–Scholes formula:
+The Black–Scholes formula is the mathematical formula that describes the price of a European call options and put options:
 $$C = S_0N(d_1) - Ke^{-rT}N(d_2)$$
 Where:
 $C$ is the option price
