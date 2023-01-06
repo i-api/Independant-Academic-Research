@@ -70,7 +70,8 @@ Where $\sigma$ is the volatility of the underlying asset.
 
 
 ## Tasks: 
-- Review Calculus Derivatives
+- Review Calculus:
+- Derivatives
 - Learn First Order Differential Equations, Second Order Differential Equations
 - Introduction to Differential Equations  William E. Boyce,  Richard C. DiPrima 
-- Chapter 2.1, 2.2, 2.3
+- Chapter 2.1, 2.2 (seperable equations), 2.3
