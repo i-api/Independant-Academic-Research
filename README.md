@@ -12,3 +12,18 @@ I will be doing independant academic research on the mathematical basis for Fina
     - Number of Pages: 8 
 - [x] Faculty Selected Readings
 - [x] Student Selected Readings
+
+
+
+<br/><br/><br/><br/>
+
+
+
+# Black–Scholes–Merton Model | Raw Notes
+- ## History:
+    - Options had been traded for many years before the Black-Scholes model was developed.
+    - The Black-Scholes model was developed in 1973 by Fischer Black and Myron Scholes, and Robert C. Merton, and was published in 1973 in the Journal of Political Economy.
+    - The Black-Scholes model was developed to price options contracts
+    - It was revolutionary because it was the first time that options contracts were priced using mathematical models, and not just by the market.
+    - 
+    - 
