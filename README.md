@@ -77,6 +77,7 @@ Where $\sigma$ is the volatility of the underlying asset.
 - Review Calculus:
 - Taylor Series
 - Derivatives
+- Chain Rule
 - Learn First Order Differential Equations (Seperable only), Second Order Differential Equations
 - Introduction to Differential Equations  William E. Boyce,  Richard C. DiPrima 
 - Chapter 2.1, 2.2 (seperable equations), 2.3
