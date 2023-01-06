@@ -20,10 +20,41 @@ I will be doing independant academic research on the mathematical basis for Fina
 
 
 # Black–Scholes–Merton Model | Raw Notes
-- ## History:
-    - Options had been traded for many years before the Black-Scholes model was developed.
-    - The Black-Scholes model was developed in 1973 by Fischer Black and Myron Scholes, and Robert C. Merton, and was published in 1973 in the Journal of Political Economy.
-    - The Black-Scholes model was developed to price options contracts
-    - It was revolutionary because it was the first time that options contracts were priced using mathematical models, and not just by the market.
-    - 
-    - 
+## History:
+- Options had been traded for many years before the Black-Scholes model was developed.
+- The Black-Scholes model was developed in 1973 by Fischer Black and Myron Scholes, and Robert C. Merton, and was published in 1973 in the Journal of Political Economy.
+- The Black-Scholes model was developed to price options contracts
+- It was revolutionary because it was the first time that options contracts were priced using mathematical models, and not just by the market.
+- 
+- 
+
+
+## Black–Scholes equation
+- The Black–Scholes equation is the partial differential equation that describes the price of an option over time:
+$$V = S_0 N(d_1) - K e^{-rT} N(d_2)$$
+Where:
+V is the option price
+S_0 is the current price of the underlying asset
+N(d_1) is the cumulative standard normal distribution of d_1
+K is the option's strike price
+e^{-rT} is the discounted factor
+N(d_2) is the cumulative standard normal distribution of d_2
+r is the risk-free interest rate
+T is the time to expiration
+
+
+- ## Black–Scholes formula
+- The Black–Scholes formula is the mathematical formula that describes the price of a European call options and put options:
+$$C = S_0N(d_1) - Ke^{-rT}N(d_2)$$
+Where:
+$C$ is the option price
+$S_0$ is the current price of the underlying asset
+$N(d_1)$ and $N(d_2)$ are the cumulative standard normal distribution functions of $d_1$ and $d_2$, respectively
+$K$ is the strike price of the option
+$r$ is the risk-free interest rate
+$T$ is the time to expiration of the option, in years
+
+$d_1$ and $d_2$ are defined as follows:
+$$d_1 = \frac{ln\left(\frac{S_0}{K}\right) + (r + \frac{\sigma^2}{2})T}{\sigma \sqrt{T}}$$
+$$d_2 = d_1 - \sigma \sqrt{T}$$
+Where $\sigma$ is the volatility of the underlying asset.
