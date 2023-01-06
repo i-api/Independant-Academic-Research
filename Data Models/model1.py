@@ -1,7 +1,10 @@
-
+from Packet import Packet
 
 def main():
-    pass
+    test_object1 = Packet(name="A", age=1)
+    print(test_object1)
+    print({"foo":test_object1})
+
 
 
 
