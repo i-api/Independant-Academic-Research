@@ -58,3 +58,19 @@ $d_1$ and $d_2$ are defined as follows:
 $$d_1 = \frac{ln\left(\frac{S_0}{K}\right) + (r + \frac{\sigma^2}{2})T}{\sigma \sqrt{T}}$$
 $$d_2 = d_1 - \sigma \sqrt{T}$$
 Where $\sigma$ is the volatility of the underlying asset.
+
+
+
+## Markov Processes:
+- Think of Markov Processes as an amnesiac. They only remember current state, forget all past state.
+- Examples: 
+- Going Shopping for Groceries
+- Copy and Paste Clipboard on Computer
+
+
+
+## Tasks: 
+- Review Calculus Derivatives
+- Learn First Order Differential Equations, Second Order Differential Equations
+- Introduction to Differential Equations  William E. Boyce,  Richard C. DiPrima 
+- Chapter 2.1, 2.2, 2.3
