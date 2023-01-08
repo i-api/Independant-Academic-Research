@@ -65,15 +65,13 @@ Where $\sigma$ is the volatility of the underlying asset.
 - Deterministic 
 - Stochastic
 
-
 ## Markov Processes:
 - Think of Markov Processes as an amnesiac. They only remember current state, forget all past state.
 - Examples: 
 - Going Shopping for Groceries
 - Copy and Paste Clipboard on Computer
 
-
-## Tasks: 
+## Tasks Jan 7, 2023: 
 - Review Calculus:
 - Taylor Series
 - Derivatives
