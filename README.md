@@ -71,8 +71,7 @@ Where $\sigma$ is the volatility of the underlying asset.
 - Going Shopping for Groceries
 - Copy and Paste Clipboard on Computer
 
-## Tasks Jan 7, 2023: 
-- Review Calculus:
+## Jan 7, 2023. Review Calculus Concepts: 
 - Taylor Series
 - Derivatives
 - Chain Rule
